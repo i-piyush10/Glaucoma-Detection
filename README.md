@@ -116,7 +116,7 @@ data/rim_one_r12/
 
 ## Authors
 
-- **Khushi Singh** — Department of CSE, VIT Bhopal  
+- **Piyush Raj** — Department of CSE, VIT Bhopal  
 
 ---
 
